@@ -1,3 +1,5 @@
+package session2;
+
 public class CurrentAccount extends BankAccount {
 
     public CurrentAccount(String accountNumber, String customerName, double balance) {
