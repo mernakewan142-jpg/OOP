@@ -1,0 +1,8 @@
+package Session3.project2;
+
+public class Lion extends Animal{
+
+    public Lion(int age, String name, String species) {
+        super(age, name, species);
+    }
+}
