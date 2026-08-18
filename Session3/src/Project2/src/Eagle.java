@@ -1,5 +1,3 @@
-package Session3.project2;
-
 public class Eagle extends Animal implements Flyable{
     public Eagle(int age, String name, String species) {
         super(age, name, species);

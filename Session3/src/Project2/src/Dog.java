@@ -1,7 +1,6 @@
-package Session3.project2;
+public class Dog extends Animal implements Swimmable{
 
-public class Fish extends Animal implements Swimmable{
-    public Fish(int age, String name, String species) {
+    public Dog(int age, String name, String species) {
         super(age, name, species);
     }
 

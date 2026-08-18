@@ -1,9 +1,7 @@
-package Session3.project2;
-
-public class Dolphin extends Animal implements Swimmable{
+public class Penguin extends Animal implements Swimmable{
 
 
-    public Dolphin(int age, String name, String species) {
+    public Penguin(int age, String name, String species) {
         super(age, name, species);
     }
 
