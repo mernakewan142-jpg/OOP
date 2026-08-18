@@ -1,5 +1,3 @@
-package session2;
-
 public class BankAccount {
 
         private String accountNumber;

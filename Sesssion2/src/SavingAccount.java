@@ -1,5 +1,3 @@
-package session2;
-
 public class SavingAccount extends BankAccount {
 
     private final double minimumBalance = 500;
